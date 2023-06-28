@@ -1,19 +1,4 @@
-/* #headl{
-    margin-left: 50%; 
-    text-align: center;
+.content {
+  max-width: 500px;
+  margin: auto;
 }
-#userNum{
-    margin-left: 50%;
-     
-}
-#myButton{
-    margin-left: 50%;
-    
-} */
-.content{
-    /* margin-left:50%; */
-    max-width: 500px;
-   margin: auto;
-   
-    
- }
